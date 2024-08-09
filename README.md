@@ -3,7 +3,7 @@
 ## Description
 This File Explorer Application is a versatile tool designed to manage files and directories efficiently. It provides comprehensive file manipulation capabilities, including copying, moving, deleting, and creating files. The application also features a powerful search function, permission management, and command processing, all while maintaining a detailed log of activities.
 
-## Table of Contents
+# Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [Key Features](#key-features)
@@ -15,7 +15,7 @@ This File Explorer Application is a versatile tool designed to manage files and 
 - [License](#license)
 - [References](#references)
 
-## Installation
+# Installation
 
  1. **Clone the Repository:**
    ```bash
@@ -29,7 +29,7 @@ This File Explorer Application is a versatile tool designed to manage files and 
 4. Run the Application:
    ./file_explorer
 
-Features
+# Features
 
 File Navigation:
 
