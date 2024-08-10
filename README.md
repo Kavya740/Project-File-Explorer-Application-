@@ -2,8 +2,11 @@
 # Description
 This File Explorer Application is a versatile tool designed to manage files and directories efficiently. It provides comprehensive file manipulation capabilities, including copying, moving, deleting, and creating files. The application also features a powerful search function, permission management, and command processing, all while maintaining a detailed log of activities.
 # Table of Contents
+
 •Installation
+
 •Key Features
+
 •Architecture
 •Usage
     *Code
